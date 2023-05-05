@@ -48,7 +48,7 @@ nav ul li a{
     border-radius: 3px;
 }
 
-a.active,a:hover{
+nav a.active,nav a:hover{
     background: #86e944;
     transition: .5s;
 }
@@ -109,11 +109,11 @@ a.active,a:hover{
     }
 }
 
-section{
+/* section{
     background: url(/resourses/cats-22.jpg) no-repeat;
     background-size: cover;
     height: calc(100vh - 80px);
-}
+} */
 
 .sep{
     color: #6ab03b;
